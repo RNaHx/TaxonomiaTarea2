@@ -1,0 +1,9 @@
+Item|1|opcion_multiple
+Pregunta|101|recordar|Cual de estos NO es un pilar de la POO?|Encapsulamiento,Herencia,Iteracion,Polimorfismo|Iteracion
+Pregunta|102|comprender|Que principio POO se viola cuando una clase tiene multiples responsabilidades?|Principio de Abstraccion,Principio de Responsabilidad Unica,Principio de Inversion de Dependencias,Principio de Segregacion de Interfaces|Principio de Responsabilidad Unica
+Pregunta|103|evaluar|Es recomendable usar herencia para compartir codigo entre clases?|Si siempre,Solo si hay relacion "es-un",No mejor usar composicion,Depende del lenguaje|Solo si hay relacion "es-un"
+Item|2|verdadero_falso
+Pregunta|201|recordar|Una clase abstracta puede ser instanciada directamente|Verdadero,Falso|Falso
+Pregunta|202|recordar|El modificador 'protected' permite acceso desde cualquier clase|Verdadero,Falso|Falso
+Pregunta|203|entender|Las interfaces pueden contener implementaciones de metodos desde Java 8|Verdadero,Falso|Verdadero
+Pregunta|204|entender|El polimorfismo solo aplica a metodos sobreescritos|Verdadero,Falso|Falso

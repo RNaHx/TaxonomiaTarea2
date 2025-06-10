@@ -1,0 +1,10 @@
+Item|1|opcion_multiple
+Pregunta|101|recordar|Cual es la complejidad de busqueda en un arreglo desordenado?|O(1),O(log n),O(n),O(n²)|O(n)
+Pregunta|102|comprender|Que estructura usa el principio LIFO?|Cola,Pila,Arbol,Grafo|Pila
+Pregunta|103|aplicar|Dado el siguiente arbol binario, cual es su recorrido in-order?|1 2 3 4 5,4 2 5 1 3,1 2 4 5 3,4 5 2 3 1|4 2 5 1 3
+Pregunta|104|evaluar|Cuando seria preferible un TreeMap sobre un HashMap?|Cuando se necesita maximo rendimiento en inserciones,Cuando se requieren los elementos ordenados por clave,Cuando se trabaja con grandes volumenes de datos,Cuando las claves son de tipo String|Cuando se requieren los elementos ordenados por clave
+Item|2|verdadero_falso
+Pregunta|201|recordar|Un arbol binario completo siempre esta balanceado|Verdadero,Falso|Verdadero
+Pregunta|202|recordar|Los algoritmos de ordenamiento por comparacion pueden ser mas rapidos que O(n log n)|Verdadero,Falso|Falso
+Pregunta|203|entender|En una tabla hash, el factor de carga ideal es siempre 1.0|Verdadero,Falso|Falso
+Pregunta|204|entender|BFS siempre encuentra el camino mas corto en un grafo no ponderado|Verdadero,Falso|Verdadero
