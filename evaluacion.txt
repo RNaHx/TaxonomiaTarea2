@@ -1,0 +1,5 @@
+Item|1|opcion_multiple
+Pregunta|101|recordar|¿Cuál es la capital de Francia?|París,Londres,Berlín|París
+Pregunta|102|recordar|¿Cuál es 2+2?|3,4,5|4
+Item|2|verdadero_falso
+Pregunta|201|aplicar|Las interfaces pueden contener implementaciones de metodos desde Java 8|Verdadero,Falso|Verdadero
