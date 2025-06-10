@@ -1,0 +1,9 @@
+Item|1|opcion_multiple
+Pregunta|101|recordar|Que palabra clave se usa para definir una constante en Java?|const,final,static,constant|final
+Pregunta|102|comprender|Cual es el resultado de 5 + "5" en Java?|10,55,"55",Error|"55"
+Pregunta|103|evaluar|Es mejor usar StringBuilder que concatenacion con + en bucles?|Si siempre,Solo con strings pequenos,No es igual,Depende del compilador|Si siempre
+Item|2|verdadero_falso
+Pregunta|201|recordar|Java es un lenguaje compilado|Verdadero,Falso|Verdadero
+Pregunta|202|recordar|Una variable 'int' puede almacenar el valor 3.5|Verdadero,Falso|Falso
+Pregunta|203|entender|El operador '==' compara valores en objetos|Verdadero,Falso|Falso
+Pregunta|204|entender|Los metodos estaticos pueden acceder a variables de instancia|Verdadero,Falso|Falso
